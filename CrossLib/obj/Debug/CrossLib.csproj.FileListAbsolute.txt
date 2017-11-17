@@ -1,0 +1,215 @@
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\CrossLib.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\CrossLib.pdb
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Controls.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Genetic.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Imaging.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Math.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Neuro.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Vision.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Controls.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Genetic.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Imaging.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Math.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Neuro.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Vision.xml
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\obj\Debug\CrossLib.dll
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\obj\Debug\CrossLib.pdb
+C:\Users\Marcelo Cabral\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\obj\Debug\CrossLib.csprojResolveAssemblyReference.cache
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\CrossLib.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\CrossLib.pdb
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Controls.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Fuzzy.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Genetic.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Imaging.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.MachineLearning.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Math.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Neuro.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.VFW.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Vision.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Controls.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Fuzzy.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Genetic.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Imaging.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.MachineLearning.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Math.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Neuro.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.VFW.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\bin\Debug\AForge.Vision.xml
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\obj\Debug\CrossLib.dll
+C:\Users\MARCELOCABRAL\Google Drive\Mestrado\Materias Aula\SG\Trabalho\Trabalho\CrossLib\obj\Debug\CrossLib.pdb
+C:\Users\TI\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\CrossLib.dll
+C:\Users\TI\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\CrossLib.pdb
+C:\Users\TI\Dropbox\Crosswalk\Source\CrossLib\obj\Debug\CrossLib.csprojResolveAssemblyReference.cache
+C:\Users\TI\Dropbox\Crosswalk\Source\CrossLib\obj\Debug\CrossLib.dll
+C:\Users\TI\Dropbox\Crosswalk\Source\CrossLib\obj\Debug\CrossLib.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\CrossLib.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\CrossLib.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Controls.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Fuzzy.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Genetic.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Imaging.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.MachineLearning.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Math.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Neuro.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.VFW.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Vision.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\SVM.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\SVM.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\SVM.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Controls.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Fuzzy.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Genetic.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Imaging.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.MachineLearning.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Math.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Neuro.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.VFW.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\AForge.Vision.xml
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\obj\Debug\CrossLib.csprojResolveAssemblyReference.cache
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\obj\Debug\CrossLib.dll
+C:\Users\MARCELOCABRAL\Dropbox\Crosswalk\Source\CrossLib\obj\Debug\CrossLib.pdb
+C:\Users\TI\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\SVM.dll
+C:\Users\TI\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\SVM.pdb
+C:\Users\TI\Dropbox\Crosswalk\Source\CrossLib\bin\Debug\SVM.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\obj\Debug\CrossLib.csprojResolveAssemblyReference.cache
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\obj\Debug\CrossLib.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\obj\Debug\CrossLib.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\CrossLib.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\CrossLib.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Controls.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Fuzzy.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Genetic.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Imaging.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.MachineLearning.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Math.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Neuro.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.VFW.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Vision.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Controls.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Fuzzy.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Genetic.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Imaging.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.MachineLearning.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Math.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Neuro.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.VFW.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\CrossLib\bin\Debug\AForge.Vision.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\CrossLib.dll
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\CrossLib.pdb
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Controls.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Genetic.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Imaging.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Math.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Neuro.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Video.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\bin\Debug\AForge.Vision.xml
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\obj\Debug\CrossLib.csprojResolveAssemblyReference.cache
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\obj\Debug\CrossLib.csproj.CoreCompileInputs.cache
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\obj\Debug\CrossLib.dll
+C:\Users\Dragleer\Documents\Side Walk\CrossLib\obj\Debug\CrossLib.pdb

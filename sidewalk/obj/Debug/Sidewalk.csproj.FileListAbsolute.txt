@@ -1,0 +1,130 @@
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Sidewalk.exe.config
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Sidewalk.exe
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Sidewalk.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Video.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Video.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\obj\Debug\Sidewalk.csprojResolveAssemblyReference.cache
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\obj\Debug\Sidewalk.FormLerVideo.resources
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\obj\Debug\Sidewalk.FormMenu.resources
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\obj\Debug\Sidewalk.Properties.Resources.resources
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\obj\Debug\Sidewalk.csproj.GenerateResource.Cache
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\obj\Debug\Sidewalk.exe
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\obj\Debug\Sidewalk.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Controls.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Imaging.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Math.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Controls.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Imaging.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Math.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\obj\Debug\Sidewalk.FormIpCam.resources
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\obj\Debug\Sidewalk.FormBluetooth.resources
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\obj\Debug\Sidewalk.FormFeatures.resources
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.Imaging.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.MachineLearning.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.Math.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.Statistics.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.Imaging.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.Imaging.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.MachineLearning.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.Math.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.Math.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.Statistics.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\Accord.Statistics.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\CrossLib.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Neuro.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Genetic.dll
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\CrossLib.pdb
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Neuro.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\MARCELOCABRAL\Dropbox\Programacao\Sidewalk\Sidewalk\bin\Debug\AForge.Genetic.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Sidewalk.exe.config
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Sidewalk.exe
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Sidewalk.pdb
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\CrossLib.dll
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Neuro.dll
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.Math.dll
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.dll
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Video.dll
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Genetic.dll
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\CrossLib.pdb
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.Imaging.pdb
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.Imaging.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.Statistics.pdb
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.Statistics.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Controls.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Imaging.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Math.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Neuro.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.Math.pdb
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.Math.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.pdb
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\Accord.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Video.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\bin\Debug\AForge.Genetic.xml
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.csprojResolveAssemblyReference.cache
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.FormBluetooth.resources
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.FormFeatures.resources
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.FormIpCam.resources
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.FormLerVideo.resources
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.FormMenu.resources
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.Properties.Resources.resources
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.csproj.GenerateResource.Cache
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.csproj.CoreCompileInputs.cache
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.exe
+C:\Users\Dragleer\Documents\Side Walk\Sidewalk\obj\Debug\Sidewalk.pdb
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Sidewalk.exe.config
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Sidewalk.exe
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Sidewalk.pdb
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\CrossLib.dll
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Neuro.dll
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.Math.dll
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.dll
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Video.dll
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Genetic.dll
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\CrossLib.pdb
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.Imaging.pdb
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.Imaging.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.Statistics.pdb
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.Statistics.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Controls.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Imaging.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Math.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Neuro.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.Math.pdb
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.Math.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.pdb
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\Accord.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Video.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\bin\Debug\AForge.Genetic.xml
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.csprojResolveAssemblyReference.cache
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.FormBluetooth.resources
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.FormFeatures.resources
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.FormIpCam.resources
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.FormLerVideo.resources
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.FormMenu.resources
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.Properties.Resources.resources
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.csproj.GenerateResource.Cache
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.csproj.CoreCompileInputs.cache
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.exe
+C:\Users\Dragleer\Documents\Disciplina Integradora II\Sidewalk\obj\Debug\Sidewalk.pdb
